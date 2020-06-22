@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+#head {
+	background-color: #546ba9;
+	height: 30px;	
+}
+
+#text {
+	color: #343658;
+	font-family: Arial;
+	font-size: 16px;
+}
+
+#applica {
+	background-color: #343658;
+	text-color: #fefeff;
+}
+
+#valutazione {
+	position:relative;
+	left:10px;
+}
+
+#list {
+	position: relative;
+	left: 10px;
+	color: #343658;
+}
+
+#button {
+	border-radius: 5px;
+	border-color: #343658;
+	background-color: #343658;
+	color: #fefeff;
+}
